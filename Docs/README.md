@@ -1,6 +1,6 @@
 # Software Engineering Standards & Practices
 
-[WebUI Version: 0.8.4](https://github.com/StoicDreams/RustWebUI)
+[WebUI Version: 0.8.6](https://github.com/StoicDreams/RustWebUI)
 
 Website dedicated to providing general best practices, standards, and workflows for developing websites & software!.
 
