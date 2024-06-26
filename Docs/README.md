@@ -1,6 +1,6 @@
 # Software Engineering Standards & Practices
 
-[WebUI Version: 0.10.5](https://github.com/StoicDreams/WebUI)
+[WebUI Version: 0.10.6](https://github.com/StoicDreams/WebUI)
 
 Website dedicated to providing general best practices, standards, and workflows for developing websites & software!.
 
