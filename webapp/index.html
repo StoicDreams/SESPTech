@@ -5,10 +5,12 @@
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZQ38J29J0H"></script>
 	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-		gtag('config', 'G-ZQ38J29J0H');
+		if (location.hostname !== 'localhost') {
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
+			gtag('config', 'G-ZQ38J29J0H');
+		}
 	</script>
 	<title>Software Engineering Standards and Practices for Agile Development and Continuous Delivery</title>
 	<meta charset="utf-8">
