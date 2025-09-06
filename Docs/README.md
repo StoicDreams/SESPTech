@@ -1,8 +1,8 @@
 # Software Engineering Standards & Practices
 
-[Version: 0.1.3](https://github.com/StoicDreams/SESPTech)
+[Version: 0.1.4](https://github.com/StoicDreams/SESPTech)
 
-[WebUI Version: 0.11.3](https://github.com/StoicDreams/WebUI)
+[WebUI](https://github.com/StoicDreams/WebUI)
 
 Website dedicated to providing general best practices, standards, and workflows for developing websites & software!.
 
