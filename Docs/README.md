@@ -1,6 +1,6 @@
 # Software Engineering Standards & Practices
 
-[Version: 0.1.4](https://github.com/StoicDreams/SESPTech)
+[Version: 0.1.5](https://github.com/StoicDreams/SESPTech)
 
 [WebUI](https://github.com/StoicDreams/WebUI)
 
